@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Abid!
 
 ## 🚀 About Me
-🔹 Passionate about [Your Field: Data Science, Web Development, AI, etc.]  
+🔹 Passionate about Data Science,AI, ML
 🔹 Love building projects & exploring new technologies  
 🔹 Always learning and sharing knowledge  
 
@@ -16,8 +16,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🔥 Featured Projects
-🌟 [Project 1](https://github.com/yourusername/project1) - Brief description  
-🌟 [Project 2](https://github.com/yourusername/project2) - Brief description  
+🌟 [Project 1]([https://github.com/yourusername/project1)](https://github.com/abigit240/EDA_retail_data) - EDA of retail data to make data driven decisions  
+🌟 [Project 2]([https://github.com/yourusername/project2](https://github.com/abigit240/Applying_ML_on_Vehicle_data_to_predict_emission) - ML to predict car emissions using fuel consumption data  
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
