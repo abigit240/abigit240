@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abid!
 
 ## 🚀 About Me
-🔹 Passionate about Gen AI (LLMs), AI/ ML appications
+🔹 Passionate about Gen AI (LLMs), AI/ ML applications, local LLM deployment and testing
 🔹 Love building projects & exploring new technologies  
 🔹 Always learning and sharing knowledge  
 
