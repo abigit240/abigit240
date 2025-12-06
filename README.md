@@ -17,7 +17,7 @@
 
 ## 🔥 Featured Projects
 🌟 [Project 1](https://github.com/abigit240/Text2CAD) - Text2CAD: An AI plugin for CAD generation through LLM prompts  
-🌟 [Project 2](https://github.com/abigit240/suq3framework-implementation) - Recurrent Neural Network Model for Crop Plantation Suggestion using soil and environmental data, 3-stage compression for edge deployment  
+🌟 [Project 2](https://github.com/abigit240/suq3framework-implementation) - Recurrent Neural Network based AI Model for Crop Suggestion using Soil and Environmental data followed by 3-stage Model Compression for Edge Deployment  
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atifsohail)  
