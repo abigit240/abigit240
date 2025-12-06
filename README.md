@@ -16,8 +16,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🔥 Featured Projects
-🌟 [Project 1](https://github.com/abigit240/EDA_retail_data) - EDA of retail data to make data driven decisions  
-🌟 [Project 2](https://github.com/abigit240/Applying_ML_on_Vehicle_data_to_predict_emission) - ML to predict car emissions using fuel consumption data  
+🌟 [Project 1](https://github.com/abigit240/Text2CAD) - Text2CAD: An AI plugin for CAD generation through LLM prompts  
+🌟 [Project 2](https://github.com/abigit240/suq3framework-implementation) - Recurrent Neural Network Model for Crop Plantation Suggestion using soil and environmental data, 3-stage compression for edge deployment  
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atifsohail)  
